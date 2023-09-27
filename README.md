@@ -3,7 +3,7 @@ SCUT_2023_E-Business_MEM_python_analysis
 
 
 # 一、目标
-小组合作完成任务：通过对A股数据可视化，通过沪深A股的行情数据和一些技术指标的观察研究，制定==选股策略==（分类/预测/业务因子），通过算法==预测走势==，最后制定==交易策略==完成仿真回测研究。
+小组合作完成任务：通过对A股数据可视化，通过沪深A股的行情数据和一些技术指标的观察研究，制定 **选股策略**（分类/预测/业务因子），通过算法**预测走势**，最后制定**交易策略**完成仿真回测研究。
 # 二、工具选型：
 ## 1. 数据获取
 - Baostock
@@ -83,21 +83,21 @@ SCUT_2023_E-Business_MEM_python_analysis
 
 #  八、参考资料
 ## pandas：
-- 官方文档： https://www.pypandas.cn/
-- 快速入门： https://mp.weixin.qq.com/s?__biz=MzU5Mjg2OTQ1MA==&mid=2247484097&idx=1&sn=ad8fabbd84bf67655996026fc0ac5688&chksm=fe1863e4c96feaf200e9398bb7c824e99d3fc01ec965666497ce584466dc93f83dd5d127a46d&scene=21#wechat_redirect
+- [官方文档](https://www.pypandas.cn/)
+- [快速入门](https://mp.weixin.qq.com/s?__biz=MzU5Mjg2OTQ1MA==&mid=2247484097&idx=1&sn=ad8fabbd84bf67655996026fc0ac5688&chksm=fe1863e4c96feaf200e9398bb7c824e99d3fc01ec965666497ce584466dc93f83dd5d127a46d&scene=21#wechat_redirect)
 ## matplotlib：
-- 官方文档： https://www.matplotlib.org.cn/
+- [官方文档](https://www.matplotlib.org.cn/)
 
 ## numpy：
-- 官方文档： https://www.numpy.org.cn/
+- [官方文档](https://www.numpy.org.cn/)
 ## ydata_profiling：
-- 官方文档： https://docs.profiling.ydata.ai/4.5/getting-started/concepts/
+- [官方文档](https://docs.profiling.ydata.ai/4.5/getting-started/concepts/)
 
 ## baostock：
-- 官方文档： http://baostock.com/baostock/index.php/Python_API%E6%96%87%E6%A1%A3
+- [官方文档](http://baostock.com/baostock/index.php/Python_API%E6%96%87%E6%A1%A3)
 
 ## akshare：
-- 官方文档： https://akshare.xyz/data/stock/stock.html
+- [官方文档](https://akshare.xyz/data/stock/stock.html)
 
 
 
