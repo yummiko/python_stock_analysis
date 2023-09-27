@@ -104,6 +104,7 @@ SCUT_2023_E-Business_MEM_python_analysis
 - [GitHub Desktop安装与使用教程](https://www.cnblogs.com/xiaobai-cs/p/16473527.html)
 
 
-
-
+# 九、免责声明
+**！！本项目仅用于学习研究，请勿用于商业用途。** \
+**！！以上仅代表个人观点，不构成任何买卖指导，据此操作，盈亏自负。**
 
