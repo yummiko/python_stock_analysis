@@ -5,6 +5,8 @@ SCUT_2023_E-Business_MEM_python_analysis
 # 一、目标
 小组合作完成任务：通过对A股数据可视化，通过沪深A股的行情数据和一些技术指标的观察研究，制定 **选股策略**（分类/预测/业务因子），通过算法**预测走势**，最后制定**交易策略**完成仿真回测研究。
 # 二、工具选型：
+## 依赖包：
+一键安装指令：pip install  -r requirements.txt
 ## 1. 数据获取
 - Baostock
 - akshare
@@ -22,6 +24,7 @@ SCUT_2023_E-Business_MEM_python_analysis
 
 ## 6. 报告撰写
 - jupyter notebook
+
 
 
 # 三、目标流程：
