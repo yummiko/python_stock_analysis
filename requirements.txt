@@ -1,0 +1,6 @@
+baostock
+ydata_profiling
+pandas
+numpy
+matplotlib
+jupyter notebook
