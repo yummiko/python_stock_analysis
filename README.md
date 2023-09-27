@@ -99,6 +99,10 @@ SCUT_2023_E-Business_MEM_python_analysis
 ## akshare：
 - [官方文档](https://akshare.xyz/data/stock/stock.html)
 
+## GitHub:
+- [简明教程](https://www.runoob.com/w3cnote/git-guide.html)
+- [GitHub Desktop安装与使用教程](https://www.cnblogs.com/xiaobai-cs/p/16473527.html)
+
 
 
 
