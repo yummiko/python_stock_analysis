@@ -93,6 +93,7 @@ SCUT_2023_E-Business_MEM_python_analysis
 
 ## numpy：
 - [官方文档](https://www.numpy.org.cn/)
+- [Numpy入门攻略](https://www.jiqizhixin.com/articles/2019-07-12-4)
 ## ydata_profiling：
 - [官方文档](https://docs.profiling.ydata.ai/4.5/getting-started/concepts/)
 
