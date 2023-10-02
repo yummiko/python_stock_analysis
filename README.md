@@ -90,7 +90,7 @@ SCUT_2023_E-Business_MEM_python_analysis
 - [快速入门](https://mp.weixin.qq.com/s?__biz=MzU5Mjg2OTQ1MA==&mid=2247484097&idx=1&sn=ad8fabbd84bf67655996026fc0ac5688&chksm=fe1863e4c96feaf200e9398bb7c824e99d3fc01ec965666497ce584466dc93f83dd5d127a46d&scene=21#wechat_redirect)
 ## matplotlib：
 - [官方文档](https://www.matplotlib.org.cn/)
-
+- ![matplotlib_parts_of_a_Figure.png](matplotlib_parts_of_a_Figure.png)
 ## numpy：
 - [官方文档](https://www.numpy.org.cn/)
 - [Numpy入门攻略](https://www.jiqizhixin.com/articles/2019-07-12-4)
