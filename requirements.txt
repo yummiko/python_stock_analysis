@@ -2,5 +2,5 @@ baostock
 ydata_profiling
 pandas
 numpy
-matplotlib
+plotly
 jupyter notebook
