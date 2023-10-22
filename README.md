@@ -17,7 +17,8 @@ SCUT_2023_E-Business_MEM_python_analysis
 - numpy
 
 ## 4. 数据可视化
-- matplotlib
+- ~~matplotlib~~ 这个不能动态查看
+- plotly 这个可以动态查看图表
 
 ## 5. 代码托管
 - github
@@ -101,6 +102,9 @@ SCUT_2023_E-Business_MEM_python_analysis
 ## matplotlib：
 - [官方文档](https://www.matplotlib.org.cn/)
 - ![matplotlib_parts_of_a_Figure.png](matplotlib_parts_of_a_Figure.png)
+## plotly
+- [官网](https://plotly.com/python/financial-charts/)
+- [中文介绍](https://zhuanlan.zhihu.com/p/85557161)
 ## numpy：
 - [官方文档](https://www.numpy.org.cn/)
 - [Numpy入门攻略](https://www.jiqizhixin.com/articles/2019-07-12-4)
