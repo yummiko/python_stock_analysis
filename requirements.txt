@@ -3,4 +3,6 @@ ydata_profiling
 pandas
 numpy
 plotly
+pandas_ta
+matplotlib
 jupyter notebook
